@@ -1,0 +1,1411 @@
+{
+  "batch_url": "https://vipcw.vercel.app/batch/2742",
+  "topics": [
+    {
+      "id": 28171,
+      "name": "Maths (Live)",
+      "classes": [
+        {
+          "type": "lecture",
+          "title": "Class-01 | Sets",
+          "video_id": "4422309_0_2506457152352975",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6357207781112%2F6357207781112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-02 | Sets",
+          "video_id": "4422310_0_9160769431752724",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6357372309112%2F6357372309112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-03 | Relations & Functions",
+          "video_id": "4422311_0_6984719672963146",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6357579858112%2F6357579858112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-04 | Relations & Functions",
+          "video_id": "4422312_0_3989325682851976",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6357718449112%2F6357718449112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-04 | Relations & Functions",
+          "video_id": "4422313_0_5446208886155047",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358041483112%2F6358041483112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-05 | Relations & Functions",
+          "video_id": "4422314_0_4912778931464526",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358156074112%2F6358156074112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-06 | Relations & Functions",
+          "video_id": "4422315_0_7396582016523935",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358275353112%2F6358275353112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-07 | Relations & Functions",
+          "video_id": "4422316_0_6440661353902887",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358412424112%2F6358412424112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-08 | Relations & Functions",
+          "video_id": "4422317_0_8436936143266027",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358520062112%2F6358520062112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-09 | Relations & Functions",
+          "video_id": "4422318_0_6206459220376512",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358838447112%2F6358838447112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-10 | Relations & Functions",
+          "video_id": "4422319_0_6225586524832304",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6358951451112%2F6358951451112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-11 | Relations & Functions",
+          "video_id": "4422320_0_3078797575828614",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359068448112%2F6359068448112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-12 | Relations & Functions",
+          "video_id": "4422321_0_4827990130072553",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359203772112%2F6359203772112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-13 | Relations & Functions",
+          "video_id": "4422322_0_1991268867352388",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359325186112%2F6359325186112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-14 | Relations & Functions",
+          "video_id": "4422323_0_3828747499539984",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359558178112%2F6359558178112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-15 | Relations & Functions",
+          "video_id": "4422324_0_3766385967762860",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359614452112%2F6359614452112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-16 | Trigonometric Functions",
+          "video_id": "4422325_0_1398015609529997",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359676736112%2F6359676736112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-18 | Trigonometric Functions",
+          "video_id": "4422326_0_7138879625543379",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359741351112%2F6359741351112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-19 | Trigonometric Functions",
+          "video_id": "4422327_0_1969444387376851",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359798931112%2F6359798931112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-20 | Trigonometric Functions",
+          "video_id": "4422328_0_8909856616063765",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6359930622112%2F6359930622112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-22 | Trigonometric Functions",
+          "video_id": "4422329_0_3756751325951710",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360035077112%2F6360035077112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-23 | ITF",
+          "video_id": "4422330_0_3659111364057366",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360302189112%2F6360302189112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-24 | ITF",
+          "video_id": "4422331_0_7267354958631643",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360358397112%2F6360358397112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-25 | ITF",
+          "video_id": "4422332_0_9568158489362170",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360408505112%2F6360408505112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-26 | Limits",
+          "video_id": "4422333_0_8611767556350831",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360697002112%2F6360697002112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-27 | Limits",
+          "video_id": "4422334_0_2774358114819646",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360750424112%2F6360750424112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-28 | Limits",
+          "video_id": "4422335_0_9827727266467357",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6360814159112%2F6360814159112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-29 | Limits",
+          "video_id": "4422336_0_3128976836799676",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361086375112%2F6361086375112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-30 | Limits",
+          "video_id": "4422337_0_1788294857970535",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361137950112%2F6361137950112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-31 | Continuity",
+          "video_id": "4422338_0_5847431559796774",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361253961112%2F6361253961112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-32 | Continuity",
+          "video_id": "4422339_0_4494574161126993",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361392711112%2F6361392711112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-33 | Differentiability",
+          "video_id": "4442322_0_7490895419900672",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361440169112%2F6361440169112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-34 | Differentiability",
+          "video_id": "4422340_0_1395162747651571",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361491853112%2F6361491853112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-35 | MOD",
+          "video_id": "4422341_0_5022850179858536",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361549282112%2F6361549282112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-36 | MOD",
+          "video_id": "4422342_0_4335605038862287",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361608756112%2F6361608756112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-37 | AOD",
+          "video_id": "4422776_0_1678583555514922",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361831538112%2F6361831538112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-38 | AOD",
+          "video_id": "4422777_0_3975769909915306",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361868293112%2F6361868293112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-39 | AOD",
+          "video_id": "4422778_0_1771790401380697",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6361912302112%2F6361912302112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-40 | AOD",
+          "video_id": "4422779_0_6184959352400158",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362015970112%2F6362015970112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-41 | AOD",
+          "video_id": "4422780_0_3235391208805206",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362054400112%2F6362054400112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-43 | AOD",
+          "video_id": "4422781_0_8865024600498586",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362151407112%2F6362151407112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-44 | AOD",
+          "video_id": "4422782_0_1450952613006259",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362339172112%2F6362339172112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-45 | AOD",
+          "video_id": "4422783_0_4279487126571971",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362384374112%2F6362384374112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-46 | AOD",
+          "video_id": "4422784_0_8032882024257565",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362431811112%2F6362431811112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-47 | AOD",
+          "video_id": "4422785_0_5260298787798991",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362487143112%2F6362487143112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-48 | Doubt Class",
+          "video_id": "4422786_0_1278385905597007",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362538992112%2F6362538992112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-49 | Indefinite Integration",
+          "video_id": "4422787_0_5895384361396382",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362667615112%2F6362667615112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-50 | Indefinite Integration",
+          "video_id": "4422788_0_9869389755580757",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362707958112%2F6362707958112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-51 | Indefinite Integration",
+          "video_id": "4422789_0_7902319777809813",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362796099112%2F6362796099112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-52 | Doubt Class",
+          "video_id": "4422790_0_3275963464476233",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362832905112%2F6362832905112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-53 | Indefinite Integration",
+          "video_id": "4422791_0_5221345233621043",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362937122112%2F6362937122112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-54 | Indefinite Integration",
+          "video_id": "4422792_0_5295597436867115",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6362976414112%2F6362976414112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-55 | Indefinite Integration",
+          "video_id": "4422793_0_3524843803813424",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363023987112%2F6363023987112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-56 | Indefinite Integration",
+          "video_id": "4422794_0_5678260181200613",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363069592112%2F6363069592112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-57 | Doubt Class",
+          "video_id": "4422795_0_2473069831344725",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363114604112%2F6363114604112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-58 | Definite Integration",
+          "video_id": "4422796_0_2173875290669061",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363232800112%2F6363232800112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-59 | Definite Integration",
+          "video_id": "4422797_0_8661531267429555",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363282426112%2F6363282426112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-60 | Definite Integration",
+          "video_id": "4422798_0_6120758451812146",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363326397112%2F6363326397112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-61 | Definite Integration",
+          "video_id": "4422799_0_2626595995519274",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363370113112%2F6363370113112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-62 | Doubt Class",
+          "video_id": "4422800_0_5016920484978258",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363418538112%2F6363418538112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-63 | Applications Of Integral",
+          "video_id": "4442323_0_8711452187007799",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363545520112%2F6363545520112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-64 | Applications Of Integral",
+          "video_id": "4422801_0_3791152298080020",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363584980112%2F6363584980112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-65 | Differential Equation",
+          "video_id": "4422802_0_5747008580207619",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363638022112%2F6363638022112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-66 | Differential Equation",
+          "video_id": "4422803_0_4630773500659702",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363683091112%2F6363683091112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-67 | Differential Equation",
+          "video_id": "4422804_0_3376030539602637",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363741141112%2F6363741141112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-68 | Differential Equation",
+          "video_id": "4422805_0_4608247844593703",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6363791001112%2F6363791001112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-69 | Permutations & Combinations",
+          "video_id": "4422806_0_8334312189786826",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364285935112%2F6364285935112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-70 | Permutations & Combinations",
+          "video_id": "4422807_0_2076213034859179",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364335730112%2F6364335730112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-71 | Permutations & Combinations",
+          "video_id": "4422808_0_2978580375030917",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364396863112%2F6364396863112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-72 | Permutations & Combinations",
+          "video_id": "4442324_0_6978257157371595",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364540712112%2F6364540712112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-73 | Permutations & Combinations",
+          "video_id": "4422809_0_3015532118212070",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364584667112%2F6364584667112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-74 | Permutations & Combinations",
+          "video_id": "4422810_0_1232920783566064",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364642580112%2F6364642580112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-75 | Permutations & Combinations",
+          "video_id": "4422811_0_2496411874964664",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364693529112%2F6364693529112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-76 | Doubt Class",
+          "video_id": "4422812_0_5997404252005969",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364743386112%2F6364743386112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-77 | Probability",
+          "video_id": "4422813_0_9132207548930109",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364852223112%2F6364852223112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-78 | Probability",
+          "video_id": "4422814_0_6462577945593044",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364942518112%2F6364942518112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-79 | Probability",
+          "video_id": "4422815_0_2583863525708378",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6364986345112%2F6364986345112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-80 | Straight Lines",
+          "video_id": "4422816_0_3647108582199600",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365040137112%2F6365040137112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-81 | Straight Lines",
+          "video_id": "4422817_0_9907043943102264",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365155017112%2F6365155017112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-82 | Straight Lines",
+          "video_id": "4422818_0_1936976471838536",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365200688112%2F6365200688112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-83 | Straight Lines",
+          "video_id": "4422819_0_9061977318100224",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365243390112%2F6365243390112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-84 | Straight Lines",
+          "video_id": "4422820_0_6615029852935653",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365289156112%2F6365289156112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-85 | Straight Lines",
+          "video_id": "4422821_0_1882561106399532",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365320948112%2F6365320948112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-86 | Circles",
+          "video_id": "4422822_0_2309083505009864",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365412804112%2F6365412804112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-87 | Circles",
+          "video_id": "4422823_0_5416551761168023",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365464041112%2F6365464041112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-88 | Circles",
+          "video_id": "4422824_0_8868788920957121",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365517646112%2F6365517646112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-89 | Circles",
+          "video_id": "4422825_0_7384340858396662",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365576646112%2F6365576646112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-90 | Circles",
+          "video_id": "4422826_0_7781278587424500",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365628752112%2F6365628752112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-91 | Parabola",
+          "video_id": "4422827_0_4253644460060189",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365795739112%2F6365795739112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-93 | Parabola",
+          "video_id": "4422828_0_1987829800979480",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6365943309112%2F6365943309112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-94 | Parabola",
+          "video_id": "4422829_0_5411247060433835",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366061380112%2F6366061380112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-95 | Parabola",
+          "video_id": "4422830_0_1004982931862786",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366175201112%2F6366175201112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-96 | Parabola",
+          "video_id": "4422831_0_5836316591124508",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366224329112%2F6366224329112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-97 |  Ellipse",
+          "video_id": "4422832_0_8180750065104059",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366368726112%2F6366368726112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-98 |  Ellipse",
+          "video_id": "4422833_0_9946206681228513",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366404174112%2F6366404174112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-99 |  Ellipse",
+          "video_id": "4422834_0_1347389126697518",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366427723112%2F6366427723112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-100 |  Ellipse",
+          "video_id": "4422835_0_2415352098113227",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366476235112%2F6366476235112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-101 | Hyperbola",
+          "video_id": "4422836_0_3130559099123767",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366546030112%2F6366546030112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-102 | Hyperbola",
+          "video_id": "4442325_0_9787374862091465",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366614759112%2F6366614759112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-103 | Hyperbola",
+          "video_id": "4442326_0_5354104483382951",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366645781112%2F6366645781112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-104 | Quadratic Equations",
+          "video_id": "4422837_0_5448017925001590",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366733529112%2F6366733529112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-105 | Quadratic Equations",
+          "video_id": "4422838_0_4648815212662185",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366763755112%2F6366763755112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-106 | Quadratic Equations",
+          "video_id": "4422839_0_3459103078611021",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366811255112%2F6366811255112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-107 | Quadratic Equations",
+          "video_id": "4422840_0_6234323649430730",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366851669112%2F6366851669112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-108 | Complex Number",
+          "video_id": "4422841_0_3903009066819846",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6366904992112%2F6366904992112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-109 | Complex Number",
+          "video_id": "4422842_0_4421636548747196",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367020326112%2F6367020326112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-110 | Complex Number",
+          "video_id": "4422843_0_1778304645146502",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367120129112%2F6367120129112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-111 | Complex Number",
+          "video_id": "4422844_0_5267890142893370",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367169735112%2F6367169735112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-112 | Complex Number",
+          "video_id": "4422845_0_7052992356897864",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367226656112%2F6367226656112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-113 | Complex Number",
+          "video_id": "4422846_0_2604324788508293",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367489028112%2F6367489028112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-114 | Complex Number",
+          "video_id": "4422847_0_4714824094358723",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367553136112%2F6367553136112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-115 | Binomial Theorem",
+          "video_id": "4422848_0_5831966760293139",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6367874443112%2F6367874443112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-116 | Binomial Theorem",
+          "video_id": "4422849_0_3683815985972439",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368190429112%2F6368190429112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-117 | Binomial Theorem",
+          "video_id": "4422850_0_6271769536152702",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368239376112%2F6368239376112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-118 | Sequence and Series",
+          "video_id": "4442327_0_7431304775241194",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368364067112%2F6368364067112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-119 | Sequence and Series",
+          "video_id": "4422851_0_6325192356033419",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368693369112%2F6368693369112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-120 | Sequence and Series",
+          "video_id": "4422852_0_6107935552432282",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368749925112%2F6368749925112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-121 | Sequence and Series",
+          "video_id": "4422853_0_9491056668092915",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368815033112%2F6368815033112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-122 | Sequence and Series",
+          "video_id": "4422854_0_9718304224921076",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368952273112%2F6368952273112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-123 | Vectors",
+          "video_id": "4422855_0_6449823367389467",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6368990570112%2F6368990570112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-124 | Vectors",
+          "video_id": "4422856_0_1176166812289437",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369087089112%2F6369087089112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-125 | Vectors",
+          "video_id": "4422857_0_7710567893180888",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369140619112%2F6369140619112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-126 | Vectors",
+          "video_id": "4422858_0_1272887570716809",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369291952112%2F6369291952112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-127 | Vectors",
+          "video_id": "4422859_0_8334318834538308",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369337989112%2F6369337989112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-128 | 3D Geometry",
+          "video_id": "4422860_0_2987637006191181",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369434147112%2F6369434147112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-129 | 3D Geometry",
+          "video_id": "4422861_0_5447724830640577",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369669225112%2F6369669225112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-130 | Geometry",
+          "video_id": "4422862_0_5534074450826395",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369714782112%2F6369714782112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-131 | Geometry",
+          "video_id": "4422863_0_1542848208261384",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369919832112%2F6369919832112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-132 | Geometry",
+          "video_id": "4422864_0_2987859888515131",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6369959759112%2F6369959759112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-133 | Geometry",
+          "video_id": "4422865_0_7080886991272738",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6370145111112%2F6370145111112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-134 | Geometry",
+          "video_id": "4422866_0_6662552193744632",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6370182646112%2F6370182646112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-135 | Geometry",
+          "video_id": "4422867_0_3475650416266610",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6370459169112%2F6370459169112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-136 | Geometry",
+          "video_id": "4422868_0_6394104015173594",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6370519198112%2F6370519198112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-137 | Geometry",
+          "video_id": "4422869_0_3962057696292461",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6371220160112%2F6371220160112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-138 | Mensuration",
+          "video_id": "4422870_0_2163287649622265",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6371309112112%2F6371309112112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-139 | Matrices and Determinants",
+          "video_id": "4422871_0_9905560433513513",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6371515170112%2F6371515170112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-140 | Matrices and Determinants",
+          "video_id": "4422872_0_9169164083943257",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6371596797112%2F6371596797112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-141 | Matrices and Determinants",
+          "video_id": "4422873_0_6071339731621173",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6372413972112%2F6372413972112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-142 | Matrices and Determinants",
+          "video_id": "4422874_0_2994505085551862",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6372748017112%2F6372748017112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-143 | Number Theory",
+          "video_id": "4422875_0_8886950787423274",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6373114444112%2F6373114444112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "60 Rules of Grammar | Basic English Grammar | Part 01 | English by Ankul Sir #ssc #ssccgl",
+          "video_id": "https://www.youtube.com/watch?v=jld21LshxDo",
+          "video_url": "https://www.youtube.com/watch?v=jld21LshxDo"
+        }
+      ],
+      "notes": [
+        {
+          "title": "Maths | 6 Feb | Class PNG",
+          "url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5ab0c9a2f2_TGT_Maths_Shubham_Sir_06_Feb_4_PM.pdf&key=scammer09876"
+        },
+        {
+          "title": "Binomial Theorem | 28 Jan | Class PNG",
+          "url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac715424a62_67a056f4b172etgtmath4pm.pdf&key=scammer09876"
+        }
+      ]
+    },
+    {
+      "id": 28107,
+      "name": "VOD Batch",
+      "classes": [
+        {
+          "type": "lecture",
+          "title": "Class-01  | Introduction | Mayank Sir | Careerwill App",
+          "video_id": "4422221_0_5372505275556073",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337549590112%2F6337549590112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-02  | Operations on Sets | Mayank Sir | Careerwill App",
+          "video_id": "4422222_0_4705799878280548",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337623321112%2F6337623321112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-03 | Question Practice Sets | Mayank Sir | Careerwill App",
+          "video_id": "4422223_0_7082038759930078",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337697552112%2F6337697552112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-04 | Relations Class-1 | Mayank Sir | Careerwill App",
+          "video_id": "4422224_0_6538724749307550",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337797722112%2F6337797722112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-05 | Relations  Class-2 | Mayank Sir | Careerwill App",
+          "video_id": "4422225_0_1344607465747521",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337862396112%2F6337862396112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-06 | Types of Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422226_0_1562349091302030",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337923173112%2F6337923173112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-07 | Different Kinds of Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422227_0_9888042561130919",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6337991565112%2F6337991565112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-08 | Composition of Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422228_0_6942715826362589",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338143141112%2F6338143141112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-09 | Inverse  of Function | Mayank Sir | Careerwill App",
+          "video_id": "4422229_0_8398156003462934",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338313249112%2F6338313249112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-10 | Question Practice Relations and Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422230_0_2966649398023895",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338376056112%2F6338376056112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-11 | Trigonometric Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422231_0_3683490844741140",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338451016112%2F6338451016112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-12 | Trigonometric Functions | Mayank Sir | Careerwill App",
+          "video_id": "4422232_0_7722603738938274",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338522202112%2F6338522202112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-13 | Quadrant and Allied Angle Concept | Mayank Sir | Careerwill App",
+          "video_id": "4422233_0_2608975504718546",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338625716112%2F6338625716112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-14 | Trigonometric Equations | Mayank Sir | Careerwill App",
+          "video_id": "4422234_0_2194675255399052",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338725752112%2F6338725752112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-15 | Question Practice Trigonometry | Mayank Sir | Careerwill App",
+          "video_id": "4422235_0_5983626661404707",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338786986112%2F6338786986112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-16 | ITF  | Mayank Sir | Careerwill App",
+          "video_id": "4422236_0_8508226669482298",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338840888112%2F6338840888112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-17 | ITF Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422237_0_2851526684967263",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6338907680112%2F6338907680112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-18 | Limit | Mayank Sir | Careerwill App",
+          "video_id": "4422238_0_4850609338455245",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339000343112%2F6339000343112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-19 | Limit  | Mayank Sir | Careerwill App",
+          "video_id": "4422239_0_6221993431245389",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339252071112%2F6339252071112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-20 | Continuity and Differentiability of a Function | Mayank Sir | Careerwill App",
+          "video_id": "4422240_0_2384353920681652",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339391683112%2F6339391683112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-21 | Continuity and Differentiability Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422241_0_8647073885150802",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339452187112%2F6339452187112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-22 | Differentiation | Mayank Sir | Careerwill App",
+          "video_id": "4422242_0_3966992735555057",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339527012112%2F6339527012112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-23 | Differentiation | Mayank Sir | Careerwill App",
+          "video_id": "4422243_0_5909482145896174",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339604645112%2F6339604645112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-24 | Differentiation Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422244_0_6802716081531550",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339713586112%2F6339713586112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-25 | TGT PGT MATHS | AOD Class-1 | | Mayank Sir | Careerwill App",
+          "video_id": "4422245_0_5936704778794276",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339839988112%2F6339839988112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-26 | TGT PGT MATHS | AOD Class-2| | Mayank Sir | Careerwill App",
+          "video_id": "4422246_0_1115487425259730",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6339904987112%2F6339904987112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-27 | TGT PGT MATHS | AOD Class-3 | | Mayank Sir | Careerwill App",
+          "video_id": "4422247_0_8603153683683100",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340045445112%2F6340045445112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-28 | TGT PGT MATHS | AOD Class-4 | | Mayank Sir | Careerwill App",
+          "video_id": "4422248_0_7716389062058021",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340145905112%2F6340145905112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-29 | TGT PGT MATHS | AOD Question Practice | | Mayank Sir | Careerwill App",
+          "video_id": "4422249_0_3271280051830003",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340226122112%2F6340226122112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-30 | TGT PGT MATHS | AOD Question Practice | | Mayank Sir | Careerwill App",
+          "video_id": "4422250_0_8177900152963009",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340296343112%2F6340296343112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-31 | TGT PGT MATHS |  Integrals L-1 | | Mayank Sir | Careerwill App",
+          "video_id": "4422251_0_7055067416955273",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340363801112%2F6340363801112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-32 | TGT PGT MATHS |  Integrals L-2 | | Mayank Sir | Careerwill App",
+          "video_id": "4422253_0_5900850369298671",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340426392112%2F6340426392112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-33 | TGT PGT MATHS | Integrals Questions Practice| | Mayank Sir | Careerwill App",
+          "video_id": "4422254_0_6137721016104725",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340499274112%2F6340499274112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-34 | TGT PGT MATHS | Integrals Questions Practice| | Mayank Sir | Careerwill App",
+          "video_id": "4422255_0_4222083476945862",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340610549112%2F6340610549112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-35 | TGT PGT MATHS | Reimann Integration | Mayank Sir | Careerwill App",
+          "video_id": "4422256_0_6941998258310745",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340670411112%2F6340670411112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-36 | TGT PGT MATHS | Limits and Continuity of Two Variables  | Mayank Sir | Careerwill App",
+          "video_id": "4422257_0_6281696780631798",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340735358112%2F6340735358112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-37 | TGT PGT MATHS | Limits and Continuity of Two Variables  | Mayank Sir | Careerwill App",
+          "video_id": "4422258_0_9681886268437356",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6340804184112%2F6340804184112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-38 | TGT PGT MATHS | Derivatives of two Variables  | Mayank Sir | Careerwill App",
+          "video_id": "4422259_0_7818200514544548",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341239121112%2F6341239121112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-39 | TGT PGT MATHS | Derivatives of two Variables  | Mayank Sir | Careerwill App",
+          "video_id": "4422260_0_4803347875920338",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341312167112%2F6341312167112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-40 | TGT PGT MATHS | Improper Integrals-2  | Mayank Sir | Careerwill App",
+          "video_id": "4422262_0_5626748902987074",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341389921112%2F6341389921112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-41 | TGT PGT MATHS | Double and Triple Integration  | Mayank Sir | Careerwill App",
+          "video_id": "4422263_0_7918384443389173",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341486035112%2F6341486035112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-42 | TGT PGT MATHS | Linear Algebra -1  | Mayank Sir | Careerwill App",
+          "video_id": "4422264_0_4990939836524771",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341601296112%2F6341601296112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-43 | TGT PGT MATHS | Linear Algebra -2  | Mayank Sir | Careerwill App",
+          "video_id": "4422265_0_9970756717837847",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341667287112%2F6341667287112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-44 | TGT PGT MATHS | Linear Algebra -3 | Mayank Sir | Careerwill App",
+          "video_id": "4422266_0_2489482972150161",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341713144112%2F6341713144112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-45 | TGT PGT MATHS | Linear Algebra -4 | Mayank Sir | Careerwill App",
+          "video_id": "4422267_0_9634549195378207",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341761001112%2F6341761001112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-46 | TGT PGT MATHS | Linear Algebra -5 | Mayank Sir | Careerwill App",
+          "video_id": "4422268_0_8227843109139350",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6341840335112%2F6341840335112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-47 | TGT PGT MATHS | Linear Algebra -6 | Mayank Sir | Careerwill App",
+          "video_id": "4422269_0_8012379337421539",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6342776080112%2F6342776080112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-48 | TGT PGT MATHS | Linear Algebra -7 | Mayank Sir | Careerwill App",
+          "video_id": "4422270_0_3296625831755722",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6342870748112%2F6342870748112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-49 | TGT PGT MATHS | Linear Algebra -8 | Mayank Sir | Careerwill App",
+          "video_id": "4422271_0_5439714390302692",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6342962930112%2F6342962930112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-50 | TGT PGT MATHS | Linear Algebra -9 | Mayank Sir | Careerwill App",
+          "video_id": "4422272_0_5989307678860552",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343080625112%2F6343080625112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-51 | TGT PGT MATHS | Linear Algebra -10 | Mayank Sir | Careerwill App",
+          "video_id": "4422273_0_8814539262638794",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343189469112%2F6343189469112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-52 | TGT PGT MATHS | Complex Analysis -1 | Mayank Sir | Careerwill App",
+          "video_id": "4422274_0_4152310466459102",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343305530112%2F6343305530112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-53 | TGT PGT MATHS | Complex Analysis -2 | Mayank Sir | Careerwill App",
+          "video_id": "4422275_0_2190710930568135",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343447097112%2F6343447097112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-54 | TGT PGT MATHS | Complex Analysis -3 | Mayank Sir | Careerwill App",
+          "video_id": "4422276_0_2167063949423273",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343522858112%2F6343522858112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-55 | TGT PGT MATHS | Complex Numbers Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422277_0_1495327284750187",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343602778112%2F6343602778112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-56 | TGT PGT MATHS |  Complex Anylsis -4 | Mayank Sir | Careerwill App",
+          "video_id": "4422278_0_4843861059192304",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343662625112%2F6343662625112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-57 | TGT PGT MATHS |  Complex Anylsis -5 | Mayank Sir | Careerwill App",
+          "video_id": "4422279_0_3822352854673875",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343733649112%2F6343733649112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-58 | TGT PGT MATHS |  Complex Anylsis -6 | Mayank Sir | Careerwill App",
+          "video_id": "4422280_0_6891637475934594",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343785570112%2F6343785570112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-59 | TGT PGT MATHS |  Complex Anylsis -7 | Mayank Sir | Careerwill App",
+          "video_id": "4422281_0_7995438478971574",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343852926112%2F6343852926112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-60 | TGT PGT MATHS |  Complex Anylsis -8 | Mayank Sir | Careerwill App",
+          "video_id": "4422282_0_6526868636782414",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343878054112%2F6343878054112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-61 | TGT PGT MATHS |  Vector Algebra | Mayank Sir | Careerwill App",
+          "video_id": "4422283_0_4446974578175184",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6343965256112%2F6343965256112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-62 | TGT PGT MATHS |  Vector Algebra | Mayank Sir | Careerwill App",
+          "video_id": "4422284_0_5104392555343282",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344013117112%2F6344013117112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-63 | TGT PGT MATHS |  Vector Algebra | Mayank Sir | Careerwill App",
+          "video_id": "4422285_0_9600350334634795",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344128798112%2F6344128798112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-64 | TGT PGT MATHS |  Vector Analysis | Mayank Sir | Careerwill App",
+          "video_id": "4422286_0_4430601083241190",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344165029112%2F6344165029112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-65 | TGT PGT MATHS |  Vector Analysis | Mayank Sir | Careerwill App",
+          "video_id": "4422287_0_2501493118002755",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344213311112%2F6344213311112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-66 | TGT PGT MATHS |  Vector Analysis | Mayank Sir | Careerwill App",
+          "video_id": "4422288_0_8954452851297279",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344265468112%2F6344265468112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-67 | TGT PGT MATHS |  Vector Analysis | Mayank Sir | Careerwill App",
+          "video_id": "4422289_0_4946718104266036",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344324860112%2F6344324860112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-68 | TGT PGT MATHS |  Differential Equations | Mayank Sir | Careerwill App",
+          "video_id": "4422290_0_3800428886658243",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344551969112%2F6344551969112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-69 | TGT PGT MATHS |  Differential Equations | Mayank Sir | Careerwill App",
+          "video_id": "4422291_0_2522651499308040",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344617645112%2F6344617645112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-70 | TGT PGT MATHS |  Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422292_0_6081755056511681",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344680296112%2F6344680296112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-71 | TGT PGT MATHS |  Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422293_0_2346720102202802",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344744947112%2F6344744947112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-72 | TGT PGT MATHS | Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422294_0_2479613522503505",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344794409112%2F6344794409112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-73 | TGT PGT MATHS | Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422295_0_8086605544069394",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344823089112%2F6344823089112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-74 | TGT PGT MATHS | Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422296_0_6195036456918291",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344908504112%2F6344908504112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-75 | TGT PGT MATHS |  Sequence and Series | Mayank Sir | Careerwill App",
+          "video_id": "4422297_0_5650852828197271",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344931654112%2F6344931654112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-76 | TGT PGT MATHS | Straight Lines | Mayank Sir | Careerwill App",
+          "video_id": "4422298_0_3984455585008958",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344966567112%2F6344966567112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-77 | TGT PGT MATHS |  Straight Lines | Mayank Sir | Careerwill App",
+          "video_id": "4422299_0_7302036026628143",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6344988524112%2F6344988524112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-78 | TGT PGT MATHS | Conic Sections | Mayank Sir | Careerwill App",
+          "video_id": "4422300_0_4429585778625312",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345021041112%2F6345021041112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-79 | TGT PGT MATHS |  Straight Lines | Mayank Sir | Careerwill App",
+          "video_id": "4422301_0_8806783483293097",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345045616112%2F6345045616112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-80 | TGT PGT MATHS |  Straight Lines | Mayank Sir | Careerwill App",
+          "video_id": "4442321_0_5455749504230694",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345114329112%2F6345114329112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-81 | TGT PGT MATHS | 3 Dimensional Geometry | Mayank Sir | Careerwill App",
+          "video_id": "4422302_0_6277692209528122",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345157965112%2F6345157965112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-82 | TGT PGT MATHS | 3 Dimensional Geometry | Mayank Sir | Careerwill App",
+          "video_id": "4422303_0_3382276720663712",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345184311112%2F6345184311112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-83 | TGT PGT MATHS | 3 Dimensional Geometry | Mayank Sir | Careerwill App",
+          "video_id": "4422304_0_5718494164881904",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345219113112%2F6345219113112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-84 | TGT PGT MATHS | Area Under the Curve | Mayank Sir | Careerwill App",
+          "video_id": "4422305_0_6560208545469437",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345249222112%2F6345249222112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-85 | TGT PGT MATHS | Previous Year Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422306_0_5978862790232486",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345331216112%2F6345331216112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-86 | TGT PGT MATHS | Probability Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422307_0_8185050540373037",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd3vlg4qjb80h8n.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345354192112%2F6345354192112.m3u8"
+        },
+        {
+          "type": "lecture",
+          "title": "Class-87 | TGT PGT MATHS | Previous Year Question Practice | Mayank Sir | Careerwill App",
+          "video_id": "4422308_0_2295087462649269",
+          "video_url": "https://cw-player.netlify.app/play?video=https%3A%2F%2Fd14v4v80cpjht7.cloudfront.net%2Ffile_library%2Fvideos%2Fmigration%2Fbrightcove%2F6345413348112%2F6345413348112.m3u8"
+        }
+      ],
+      "notes": [
+        {
+          "title": "Maths | 6 Feb | Class PNG",
+          "url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67a5ab0c9a2f2_TGT_Maths_Shubham_Sir_06_Feb_4_PM.pdf&key=scammer09876"
+        },
+        {
+          "title": "Binomial Theorem | 28 Jan | Class PNG",
+          "url": "https://yeasty-mufi-scammerbotscw1-ba766b94.koyeb.app/download-pdf?url=92013a99927c4842b0a70fbd6f064a95:crwilladmin/class-attachment/67ac715424a62_67a056f4b172etgtmath4pm.pdf&key=scammer09876"
+        }
+      ]
+    },
+    {
+      "id": 28367,
+      "name": "Notes",
+      "classes": [],
+      "notes": []
+    }
+  ]
+}
